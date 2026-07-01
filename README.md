@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Akbar Prayuda Putra 👋
 
-<!--
-**akbarprayudaputra6/akbarprayudaputra6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Backend Web Developer from Indonesia 🇮🇩
+Currently leveling up to become a Full Stack Developer.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+**Backend**
+- PHP & Laravel
+- Clean Architecture (Repository & Service Pattern)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend**
+- HTML, CSS, JavaScript
+- Bootstrap & Tailwind CSS
+- React JS (Implementation)
+
+**Tools**
+- Git & GitHub
+- Basic REST API
+
+## 🌱 Currently Learning
+- Full Stack Development (Laravel + React JS)
+- Building real-world portfolio projects
+
+## 🎯 Goals
+- Land my first freelance project
+- Build products that solve real problems
+
+## 📫 Contact Me
+- LinkedIn: (isi nanti)
+- Email: (isi nanti)
+
+---
+*"I don't wait for opportunities. I build them."*
