@@ -26,8 +26,8 @@ Currently leveling up to become a Full Stack Developer.
 - Build products that solve real problems
 
 ## 📫 Contact Me
-- LinkedIn: (isi nanti)
-- Email: (isi nanti)
+- LinkedIn: https://www.linkedin.com/in/akbar-prayuda-putra-1ba9a441a?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Email: akbarprayudaputra6@gmail.com
 
 ---
 *"I don't wait for opportunities. I build them."*
